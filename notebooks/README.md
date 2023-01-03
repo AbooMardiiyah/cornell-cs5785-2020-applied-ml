@@ -56,3 +56,4 @@ However the `*.html` notes are fully portable.
 ## Feedback
 
 Please send feedback to [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/)
+link to videos : https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
